@@ -14,9 +14,7 @@
 In-Silico Cardiovascular Medicine | Cardiac Xenotransplantation | Mechanical Medical Devices
 </p>
 
-<p align="center">
-<i> Observe - Mathematical Modelling - Clinical Implementation.</i>
-</p>
+
 
 ---
 
@@ -47,6 +45,9 @@ In-Silico Cardiovascular Medicine | Cardiac Xenotransplantation | Mechanical Med
 
 ---
 
+<p align="center">
+<i> Observe - Mathematical Modelling - Clinical Implementation.</i>
+</p>
 
 ---
 

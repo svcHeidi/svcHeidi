@@ -1,12 +1,10 @@
 <!-- ===== HERO ===== -->
 
 <h1 align="center">Simão Nieto de Castro</h1>
-<p align="center">
-• Heart Failure treatment optimization • Scientific Computing • High-Performance Code 
-</p
----
 
->
+<p align="center">
+• Heart Failure Treatment Optimization • Scientific Computing • High-Performance Code
+</p>
 
 <p align="center">
 <i>From equations to execution.</i>
@@ -14,18 +12,18 @@
 
 ---
 
+## 🧠 Profile
 
-I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with strong emphasis on translation.
+I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with a strong emphasis on model translation and structure.
 
 My work focuses on:
 
 * Numerical methods & PDE-ODE systems
-* Deep Learning-based Statistical Shape and data-driven Modelling
-* Cardiac eletromechanics and Fluid-Solid Interactions
-* Design Digital Twins
+* Deep learning-based statistical shape and data-driven modelling
+* Cardiac electromechanics and fluid-solid interactions
+* Digital twin development
 * High-performance simulation (C/C++)
-* Technical Communication
-
+* Technical communication
 
 ---
 
@@ -59,20 +57,19 @@ Technical Design • Engineering Communication • Educational Content
 
 ---
 
+## 🔬 Research & Development Focus
 
-## 🔬🎨 Current Work
+* Computational modelling of cardiac electromechanics
+* Coupling fluid-solid interaction with electrophysiology
+* Scientific machine learning for data-driven systems
+* Development of digital twins for cardiac applications
 
-* OpenFOAM-based workflows for eletromechanical-fluid systems
-* Structuring large-scale simulation codebases
-* Technical Design/Communication 
+> Bridging physics-based modelling with data-driven approaches
 
-> Building a technical + creative hybrid profile
-
+---
 
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">LinkedIn</a> |
-  <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">Google Scholar</a>
-</p>
+  <a href="https://www.linkedin.com
 

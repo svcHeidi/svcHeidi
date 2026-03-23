@@ -44,11 +44,12 @@ Technical Design • Engineering Communication • Educational Content
 
 ## 🧠 About
 
-I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code.
+I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with strong emphasis on translation.
 
 My work focuses on:
 
 * Numerical methods & PDE-ODE systems
+* Deep Learning-based Statistical Shape and data-driven Modelling
 * Cardiac eletromechanics and Fluid-Solid Interactions
 * Design Digital Twins
 * High-performance simulation (C/C++)
@@ -56,25 +57,10 @@ My work focuses on:
 
 ---
 
-## ⚙️ Engineering Focus
-
-* **Physics-Based Simulation**
-* **Model Translation (Research → Code → validate clinically)**
-* **Performance Optimization → clinical translation**
-
----
-
-## 🔬 Current Work
+## 🔬🎨 Current Work
 
 * OpenFOAM-based workflows for eletromechanical-fluid systems
 * Structuring large-scale simulation codebases
-
----
-
-## 🎨 Design Transition
-
-Currently expanding into:
-
 * Technical Design/Communication 
 
 > Building a technical + creative hybrid profile

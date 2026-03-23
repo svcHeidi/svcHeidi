@@ -20,7 +20,6 @@
 
 ---
 
-## ⚙️ Stack
 
 <p align="center">
   <strong>Engineering & ML</strong><br><br>

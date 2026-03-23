@@ -12,17 +12,23 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 ---
 
 <!-- ===== IDENTITY STRIP ===== -->
-
 ## 🛠️ Tech Stack
 
+**Engineering & Simulation**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+**Web & Design (Expanding)**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 <p align="center">
-  Scientific Computing • Numerical Methods • OpenFOAM • Simulation Engineering
+  OpenFOAM • Numerical Methods • Scientific Computing
 </p>
-
 
 
 ---

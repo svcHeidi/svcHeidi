@@ -1,4 +1,9 @@
+<!-- ===== HERO ===== -->
 
+<h1 align="center">Simão Nieto de Castro</h1>
+<p align="center">
+• Heart Failure treatment optimization • Scientific Computing • High-Performance Code 
+</p
 
 I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with strong emphasis on translation.
 
@@ -13,12 +18,7 @@ My work focuses on:
 
 ---
 
-<!-- ===== HERO ===== -->
-
-<h1 align="center">Simão Nieto de Castro</h1>
-<p align="center">
-Mechanical Engineer • Scientific Computing • High-Performance Code
-</p>
+>
 
 <p align="center">
 <i>From equations to execution.</i>

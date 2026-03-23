@@ -11,11 +11,11 @@
 </h1>
 
 <p align="center">
-• Heart Failure Treatment Optimization • Scientific Computing • High-Performance Code
+In-Silico Cardiovascular Medicine | Cardiac Xenotransplantation | Mechanical Medical Devices
 </p>
 
 <p align="center">
-<i>From equations to execution.</i>
+<i> Observe - Mathematical Modelling - Clinical Implementation.</i>
 </p>
 
 ---

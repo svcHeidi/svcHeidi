@@ -15,6 +15,21 @@ In-Silico Cardiovascular Medicine | Cardiac Xenotransplantation | Mechanical Med
 </p>
 
 
+## 🧠 Profile
+
+I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with a strong emphasis on model translation and structure.
+
+My work focuses on:
+
+* Numerical methods & PDE-ODE systems
+* Deep learning-based statistical shape and data-driven modelling
+* Cardiac electromechanics and fluid-solid interactions
+* Digital twin development
+* High-performance simulation (C/C++)
+* Technical communication
+
+---
+
 
 ---
 
@@ -45,26 +60,9 @@ In-Silico Cardiovascular Medicine | Cardiac Xenotransplantation | Mechanical Med
 
 ---
 
-<p align="center">
-<i> Observe - Mathematical Modelling - Clinical Implementation.</i>
-</p>
-
 ---
 
-## 🧠 Profile
 
-I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with a strong emphasis on model translation and structure.
-
-My work focuses on:
-
-* Numerical methods & PDE-ODE systems
-* Deep learning-based statistical shape and data-driven modelling
-* Cardiac electromechanics and fluid-solid interactions
-* Digital twin development
-* High-performance simulation (C/C++)
-* Technical communication
-
----
 
 
 ## 🔬 Research & Development Focus

@@ -10,14 +10,22 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 </p>
 
 ---
-
-<!-- ===== IDENTITY STRIP ===== -->
 ## 🛠️ Tech Stack
 
-**Engineering & Simulation**
+**Engineering & Scientific Computing**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+**Machine Learning**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  Applied ML • Data-driven modeling • Scientific ML
 </p>
 
 **Web & Design (Expanding)**
@@ -27,9 +35,8 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 </p>
 
 <p align="center">
-  OpenFOAM • Numerical Methods • Scientific Computing
+  OpenFOAM • Numerical Methods • Simulation Engineering
 </p>
-
 
 ---
 

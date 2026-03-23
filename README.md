@@ -19,8 +19,6 @@
 </p>
 ---
 
-## ⚙️ Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="22"/> Python &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c" width="22"/> C &nbsp;&nbsp;

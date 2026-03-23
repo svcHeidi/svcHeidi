@@ -64,7 +64,7 @@ Currently expanding into:
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svcHeidi&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=svcHeidi&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400" />
 </p>
 
 ---
@@ -72,8 +72,7 @@ Currently expanding into:
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sim%C3%A3o-nieto-de-castro-b31863319">LinkedIn</a>
   &nbsp;|&nbsp;
   <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">Google Scholar</a>
 </p>
- 

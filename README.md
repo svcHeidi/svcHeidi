@@ -14,6 +14,7 @@
 In-Silico Cardiovascular Medicine | Cardiac Xenotransplantation | Mechanical Medical Devices
 </p>
 
+---
 
 I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with a strong emphasis on model translation and structure.
 

@@ -13,11 +13,19 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 
 <!-- ===== IDENTITY STRIP ===== -->
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python"/>
-  <img src="https://img.shields.io/badge/C/C++-High%20Performance-black?logo=c"/>
-  <img src="https://img.shields.io/badge/Focus-Simulation%20Engineering-orange"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Advanced-black?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-Advanced-blue?logo=cplusplus&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenFOAM-CFD-orange"/>
+  <img src="https://img.shields.io/badge/Focus-Scientific%20Computing-lightgrey"/>
+</p>
+
 
 ---
 

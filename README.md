@@ -41,7 +41,6 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 
 ---
 
-
 ## 🧠 About
 
 I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code.

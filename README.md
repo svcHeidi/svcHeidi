@@ -9,28 +9,38 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 <i>From equations to execution.</i>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+---
 
-<p align="center">
-  Numerical Methods • Scientific Computing • Machine Learning • OpenFOAM
-</p>
+<table align="center">
+<tr>
+<td align="center">
+
+<strong>Engineering & ML</strong><br><br>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp" /><br><br>
+
+<sub>
+Numerical Methods • Scientific Computing • Machine Learning • OpenFOAM
+</sub>
+
+</td>
+
+<td align="center">
+
+<strong>Design & Web</strong><br><br>
+
+<img src="https://skillicons.dev/icons?i=js,html,css" /><br><br>
+
+<sub>
+Technical Design • Engineering Communication • Educational Content
+</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-
-### Web & Technical Design (Expanding)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
-
-<p align="center">
-  Technical Design • Engineering Communication • Educational Content
-</p>
-
----
 
 ## 🧠 About
 

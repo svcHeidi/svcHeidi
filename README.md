@@ -19,6 +19,21 @@
 </p>
 
 ---
+## ⚙️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="22"/> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="22"/> C &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="22"/> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="22"/> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="22"/> CSS
+</p>
+
+<p align="center">
+  Numerical Methods • Scientific Computing • Machine Learning • OpenFOAM • Technical Design
+</p>
+
 
 ## 🧠 Profile
 

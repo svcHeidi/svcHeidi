@@ -17,7 +17,6 @@
 <p align="center">
 <i>From equations to execution.</i>
 </p>
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="22"/> Python &nbsp;&nbsp;

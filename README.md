@@ -10,15 +10,16 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 
-**Engineering & Scientific Computing**
+### Engineering & Scientific Computing
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
-**Machine Learning**
+### Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -28,7 +29,7 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
   Applied ML • Data-driven modeling • Scientific ML
 </p>
 
-**Web & Design (Expanding)**
+### Web & Design (Expanding)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
@@ -39,6 +40,7 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 </p>
 
 ---
+
 
 ## 🧠 About
 

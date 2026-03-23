@@ -68,8 +68,14 @@ Technical Design • Engineering Communication • Educational Content
 
 ---
 
+
+---
+
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com
+  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">LinkedIn</a> |
+  <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">Google Scholar</a>
+</p>
 
+---

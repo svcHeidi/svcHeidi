@@ -72,7 +72,7 @@ Currently expanding into:
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sim%C3%A3o-nieto-de-castro-b31863319">LinkedIn</a>
-  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">LinkedIn</a> |
   <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">Google Scholar</a>
 </p>
+

@@ -27,9 +27,10 @@ I design and implement **computational models of physical systems**, translating
 
 My work focuses on:
 
-* Numerical methods & ODE systems
-* Cardiac electrophysiology models
+* Numerical methods & PDE-ODE systems
+* Cardiac eletromechanics and Fluid-Solid Interactions
 * High-performance simulation (C/C++)
+* Technical Communication
 
 ---
 
@@ -54,8 +55,7 @@ My work focuses on:
 
 Currently expanding into:
 
-* Logo design
-* Web design
+* Technical Design/Communication 
 
 > Building a technical + creative hybrid profile
 

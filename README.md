@@ -69,8 +69,6 @@ Technical Design • Engineering Communication • Educational Content
 ---
 
 
----
-
 ## 📫 Contact
 
 <p align="center">

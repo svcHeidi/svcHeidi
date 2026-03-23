@@ -9,8 +9,6 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 <i>From equations to execution.</i>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 ### Engineering & Scientific Computing
@@ -18,6 +16,12 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
+
+<p align="center">
+  Numerical Methods • Scientific Computing • Simulation Engineering • OpenFOAM
+</p>
+
+---
 
 ### Machine Learning
 
@@ -29,14 +33,16 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
   Applied ML • Data-driven modeling • Scientific ML
 </p>
 
-### Web & Design (Expanding)
+---
+
+### Web & Technical Design (Expanding)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 <p align="center">
-  OpenFOAM • Numerical Methods • Simulation Engineering
+  Technical Design • Engineering Communication • Educational Content
 </p>
 
 ---

@@ -18,22 +18,11 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 </p>
 
 <p align="center">
-  Numerical Methods • Scientific Computing • Simulation Engineering • OpenFOAM
+  Numerical Methods • Scientific Computing • Machine Learning • OpenFOAM
 </p>
 
 ---
 
-### Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-  Applied ML • Data-driven modeling • Scientific ML
-</p>
-
----
 
 ### Web & Technical Design (Expanding)
 

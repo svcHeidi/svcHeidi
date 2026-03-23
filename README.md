@@ -1,75 +1,63 @@
-<!-- ===== HEADER ===== -->
+<!-- ===== HERO ===== -->
 
-<h1 align="center">[Your Name]</h1>
+<h1 align="center">Simão Nieto de Castro</h1>
 <p align="center">
-Mechanical Engineer • Scientific Computing • Python & C/C++
+Mechanical Engineer • Scientific Computing • High-Performance Code
 </p>
 
 <p align="center">
-<i>Engineering precision. Computational depth. Clean execution.</i>
+<i>From equations to execution.</i>
 </p>
 
 ---
 
-## 🧠 Profile
+<!-- ===== IDENTITY STRIP ===== -->
 
-
-I’m develop **computational modeling, numerical methods, machine learning models and high-performance simulation** for **cardiovascular and neurovascular system**.
-
-I operate at the intersection of:
-
-* Physics
-* Mathematics
-* Software engineering
-* Medicine
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/C/C++-High%20Performance-black?logo=c"/>
+  <img src="https://img.shields.io/badge/Focus-Simulation%20Engineering-orange"/>
+</p>
 
 ---
 
-## ⚙️ Core Expertise
+## 🧠 About
+
+I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code.
+
+My work focuses on:
+
+* Numerical methods & ODE systems
+* Cardiac electrophysiology models
+* High-performance simulation (C/C++)
+
+---
+
+## ⚙️ Engineering Focus
 
 * **Scientific Computing**
-
-  * ODE systems, numerical solvers, model implementation
-* **Simulation Engineering**
-
-  * Physics-based modeling (CFD, electrophysiology)
-* **Low-Level Performance**
-
-  * Efficient implementations in C/C++
-* **Code Architecture**
-
-  * Structuring large, research-grade models into production-quality code
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,linux" />
-</p>
-
-<p align="center">
-  OpenFOAM • Numerical Methods • CLI Workflows • macOS
-</p>
+* **CFD & Physics-Based Simulation**
+* **Model Translation (Research → Code)**
+* **Performance Optimization**
 
 ---
 
 ## 🔬 Current Work
 
-* Implementing and validating **cardiac electromechanical models**
-* Translating research models into structured C/C++ systems
-* Improving maintainability of scientific codebases
+* Cardiac ionic model implementation
+* OpenFOAM-based workflows
+* Structuring large-scale simulation codebases
 
 ---
 
-## 🎨 Design (Emerging)
+## 🎨 Design Transition
 
 Currently expanding into:
 
-* Thecnical Communication 
-* Logos/web/app design
+* Logo design
+* Web design
 
-> Building a design portfolio — not public yet
+> Building a technical + creative hybrid profile
 
 ---
 
@@ -79,18 +67,13 @@ Currently expanding into:
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true"/>
-</p>
-
 ---
+
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=google" />
-  </a>
+  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">Google Scholar</a>
 </p>
+ 

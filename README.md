@@ -44,6 +44,7 @@ My work focuses on:
 
 * Numerical methods & PDE-ODE systems
 * Cardiac eletromechanics and Fluid-Solid Interactions
+* Design Digital Twins
 * High-performance simulation (C/C++)
 * Technical Communication
 
@@ -51,17 +52,15 @@ My work focuses on:
 
 ## ⚙️ Engineering Focus
 
-* **Scientific Computing**
-* **CFD & Physics-Based Simulation**
-* **Model Translation (Research → Code)**
-* **Performance Optimization**
+* **Physics-Based Simulation**
+* **Model Translation (Research → Code → validate clinically)**
+* **Performance Optimization → clinical translation**
 
 ---
 
 ## 🔬 Current Work
 
-* Cardiac ionic model implementation
-* OpenFOAM-based workflows
+* OpenFOAM-based workflows for eletromechanical-fluid systems
 * Structuring large-scale simulation codebases
 
 ---

@@ -18,25 +18,36 @@
 <i>From equations to execution.</i>
 </p>
 
+---
+
+## ⚙️ Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="22"/> Python &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="22"/> C &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="22"/> C++ &nbsp;&nbsp;
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="22"/> JavaScript &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="22"/> HTML &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="22"/> CSS
+  <strong>Engineering & ML</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" height="32" />
 </p>
 
 <p align="center">
-  <strong>Engineering & ML</strong> &nbsp;•&nbsp;
+  <sub>
   Numerical Methods • Scientific Computing • Machine Learning • OpenFOAM
+  </sub>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Design & Web</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css" height="32" />
 </p>
 
 <p align="center">
-  <strong>Design & Web</strong> &nbsp;•&nbsp;
+  <sub>
   Technical Design • Engineering Communication • Educational Content
+  </sub>
 </p>
+
+---
+
 
 ---
 

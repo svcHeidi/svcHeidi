@@ -11,6 +11,7 @@
 <p align="center">
 <i>From equations to execution.</i>
 </p>
+---
 
 
 I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with strong emphasis on translation.

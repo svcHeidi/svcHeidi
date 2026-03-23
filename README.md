@@ -9,10 +9,6 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 <i>From equations to execution.</i>
 </p>
 
-## 🛠️ Tech Stack
-
-### Engineering & Scientific Computing
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>

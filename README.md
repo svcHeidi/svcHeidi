@@ -16,15 +16,13 @@ Mechanical Engineer • Scientific Computing • High-Performance Code
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-Advanced-black?logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-Advanced-blue?logo=cplusplus&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,linux" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenFOAM-CFD-orange"/>
-  <img src="https://img.shields.io/badge/Focus-Scientific%20Computing-lightgrey"/>
+  Scientific Computing • Numerical Methods • OpenFOAM • Simulation Engineering
 </p>
+
 
 
 ---

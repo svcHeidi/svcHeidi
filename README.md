@@ -1,6 +1,14 @@
 <!-- ===== HERO ===== -->
 
-<h1 align="center">Simão Nieto de Castro</h1>
+<h1 align="center">
+  Simão Nieto de Castro
+  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="20"/>
+  </a>
+</h1>
 
 <p align="center">
 • Heart Failure Treatment Optimization • Scientific Computing • High-Performance Code
@@ -68,12 +76,3 @@ Technical Design • Engineering Communication • Educational Content
 
 ---
 
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/simão-nieto-de-castro-b31863319">LinkedIn</a> |
-  <a href="https://scholar.google.com/citations?user=YM6WV1oAAAAJ&hl=en">Google Scholar</a>
-</p>
-
----

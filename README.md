@@ -1,3 +1,18 @@
+
+
+I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with strong emphasis on translation.
+
+My work focuses on:
+
+* Numerical methods & PDE-ODE systems
+* Deep Learning-based Statistical Shape and data-driven Modelling
+* Cardiac eletromechanics and Fluid-Solid Interactions
+* Design Digital Twins
+* High-performance simulation (C/C++)
+* Technical Communication
+
+---
+
 <!-- ===== HERO ===== -->
 
 <h1 align="center">Simão Nieto de Castro</h1>
@@ -41,21 +56,6 @@ Technical Design • Engineering Communication • Educational Content
 
 ---
 
-
-## 🧠 About
-
-I design and implement **computational models of physical systems**, translating mathematics into efficient, production-level code with strong emphasis on translation.
-
-My work focuses on:
-
-* Numerical methods & PDE-ODE systems
-* Deep Learning-based Statistical Shape and data-driven Modelling
-* Cardiac eletromechanics and Fluid-Solid Interactions
-* Design Digital Twins
-* High-performance simulation (C/C++)
-* Technical Communication
-
----
 
 ## 🔬🎨 Current Work
 

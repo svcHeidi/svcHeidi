@@ -68,15 +68,6 @@ Technical Design • Engineering Communication • Educational Content
 
 > Building a technical + creative hybrid profile
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svcHeidi&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400" />
-</p>
-
----
 
 ## 📫 Contact
 

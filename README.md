@@ -61,8 +61,6 @@ My work focuses on:
 ---
 
 
-
-
 ## 🔬 Research & Development Focus
 
 * Computational modelling of cardiac electromechanics
